@@ -4,6 +4,7 @@ Aladin Python CLI
 A command-line interface for retrieving hourly forecasts from the "Aladin" model
 developed by the [Czech Hydrometeorological Institute][chmi].
 
+|   |   |
 |---|---|
 | ![](https://github.com/petrmanek/aladin/blob/master/examples/2021072412_nebul.gif?raw=true) | ![](https://github.com/petrmanek/aladin/blob/master/examples/2021072412_T2m.gif?raw=true) |
 | ![](https://github.com/petrmanek/aladin/blob/master/examples/2021072412_prec.gif?raw=true) | ![](https://github.com/petrmanek/aladin/blob/master/examples/2021072412_v10mmslp.gif?raw=true) |
