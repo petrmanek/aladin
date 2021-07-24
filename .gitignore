@@ -1,0 +1,5 @@
+venv
+dist
+aladin.egg-info
+*.pyc
+__pycache__
